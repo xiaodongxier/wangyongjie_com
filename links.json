@@ -12,7 +12,7 @@
     "id": "blog",
     "title": "长文博客",
     "desc": "认真写的文章都收在这里",
-    "url": "https://example.com/blog",
+    "url": "https://xiaodongxier.com",
     "tag": "文字",
     "weight": 90,
     "enabled": true
@@ -39,7 +39,7 @@
     "id": "mail",
     "title": "写信给我",
     "desc": "有话想说？欢迎来信",
-    "url": "mailto:hi@example.com",
+    "url": "mailto:admin@wangyongjie.cn",
     "tag": "联系",
     "weight": 50,
     "enabled": true
