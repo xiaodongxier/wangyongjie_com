@@ -3,7 +3,7 @@
     "id": "github",
     "title": "GitHub",
     "desc": "我的开源作品与小实验",
-    "url": "https://github.com",
+    "url": "https://github.com/xiaodongxier",
     "tag": "作品",
     "weight": 100,
     "enabled": true
@@ -18,19 +18,19 @@
     "enabled": true
   },
   {
-    "id": "juejin",
-    "title": "掘金专栏",
-    "desc": "偏技术的一些分享",
-    "url": "https://juejin.cn",
+    "id": "wiki",
+    "title": "知识库",
+    "desc": "一些有用的知识",
+    "url": "https://wiki.wangyongjie.com",
     "tag": "文字",
     "weight": 70,
     "enabled": true
   },
   {
-    "id": "bilibili",
-    "title": "Bilibili",
-    "desc": "偶尔更新的视频与直播",
-    "url": "https://www.bilibili.com",
+    "id": "tools",
+    "title": "工具中心",
+    "desc": "一些实用工具",
+    "url": "https://tools.wangyongjie.com",
     "tag": "影像",
     "weight": 60,
     "enabled": true
