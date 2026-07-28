@@ -1,0 +1,47 @@
+[
+  {
+    "id": "github",
+    "title": "GitHub",
+    "desc": "我的开源作品与小实验",
+    "url": "https://github.com",
+    "tag": "作品",
+    "weight": 100,
+    "enabled": true
+  },
+  {
+    "id": "blog",
+    "title": "长文博客",
+    "desc": "认真写的文章都收在这里",
+    "url": "https://example.com/blog",
+    "tag": "文字",
+    "weight": 90,
+    "enabled": true
+  },
+  {
+    "id": "juejin",
+    "title": "掘金专栏",
+    "desc": "偏技术的一些分享",
+    "url": "https://juejin.cn",
+    "tag": "文字",
+    "weight": 70,
+    "enabled": true
+  },
+  {
+    "id": "bilibili",
+    "title": "Bilibili",
+    "desc": "偶尔更新的视频与直播",
+    "url": "https://www.bilibili.com",
+    "tag": "影像",
+    "weight": 60,
+    "enabled": true
+  },
+  {
+    "id": "mail",
+    "title": "写信给我",
+    "desc": "有话想说？欢迎来信",
+    "url": "mailto:hi@example.com",
+    "tag": "联系",
+    "weight": 50,
+    "enabled": true
+  }
+]
