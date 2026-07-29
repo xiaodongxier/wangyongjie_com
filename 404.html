@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <title>正在返回观测站…</title>
+    <script>
+      // GitHub Pages 找不到 History 路由时会提供这个文件。
+      // 把原始路径带回首页，再由 Vue 呈现站内 404，避免落到 GitHub 默认错误页。
+      (function () {
+        var requested = window.location.pathname + window.location.search + window.location.hash
+        window.location.replace('/?__not_found=' + encodeURIComponent(requested))
+      })()
+    </script>
+  </head>
+  <body></body>
+</html>
